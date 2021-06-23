@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(2021/03/teach2-1.jpg)$ ../../index.php?wpdmmediaid=15&wpdmmedia=$1
+RewriteRule ^(2021/03/back6-1.jpg)$ ../../index.php?wpdmmediaid=21&wpdmmedia=$1
+</IfModule>

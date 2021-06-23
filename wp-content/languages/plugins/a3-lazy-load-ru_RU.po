@@ -1,0 +1,551 @@
+# Translation of Plugins - a3 Lazy Load - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - a3 Lazy Load - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-16 16:31:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - a3 Lazy Load - Stable (latest release)\n"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:212
+msgid "Free"
+msgstr "Бесплатно"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:220
+msgid "Comming Soon"
+msgstr "Скоро"
+
+#. Author URI of the plugin
+msgid "https://a3rev.com/"
+msgstr "https://a3rev.com/"
+
+#. Author of the plugin
+msgid "a3rev Software"
+msgstr "a3rev Software"
+
+#. Description of the plugin
+msgid "Speed up your site and enhance frontend user's visual experience in PC's, Tablets and mobile with a3 Lazy Load."
+msgstr "Ускорьте свой сайт и улучшите визуальные ощущения пользователей ПК, планшетов и смартфонов с a3 Lazy Load."
+
+#: classes/class-a3-lazy-load-filter.php:69
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/class-a3-lazy-load-filter.php:64
+msgid "Support"
+msgstr "Поддержка"
+
+#: classes/class-a3-lazy-load-filter.php:50
+msgid "a3rev Twitter"
+msgstr "a3rev в Твиттере"
+
+#: classes/class-a3-lazy-load-filter.php:49
+msgid "a3rev Facebook"
+msgstr "a3rev на Фейсбуке"
+
+#: classes/class-a3-lazy-load-filter.php:48
+msgid "Connect with us via"
+msgstr "Свяжитесь с нами через"
+
+#: classes/class-a3-lazy-load-filter.php:41
+msgid "Submit Review for Plugin on WordPress"
+msgstr "Отправьте отзыв на плагин на WordPress"
+
+#: classes/class-a3-lazy-load-filter.php:40
+msgid "Is this plugin is just what you needed? If so"
+msgstr "Этот плагин - то что нужно? Если да"
+
+#: classes/class-a3-lazy-load-filter.php:33
+msgid "Free WooCommerce Plugins"
+msgstr "Бесплатные плагины WooCommerce"
+
+#: classes/class-a3-lazy-load-filter.php:26
+msgid "Free WordPress Plugins"
+msgstr "Бесплатные плагины WordPress"
+
+#: classes/class-a3-lazy-load-filter.php:20
+msgid "Go to Support Forum"
+msgstr "Перейти на форум поддержки"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:206
+msgid "Get this extension"
+msgstr "Получить это расширение"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:203
+msgid "Activate"
+msgstr "Активировать"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:201
+msgid "Installed"
+msgstr "Установлено"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:26
+#: classes/addons/class-a3-lazy-load-addons-page.php:61
+msgid "Add-ons"
+msgstr "Дополнения"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:26
+#: classes/addons/class-a3-lazy-load-addons-page.php:41
+msgid "a3 Lazy Load Add-ons/Extensions"
+msgstr "Расширения и дополнения для a3 Lazy Load"
+
+#: admin/settings/template-settings/global-settings.php:550
+msgid "Image Load Threshold"
+msgstr "Порог старта загрузки изображений"
+
+#: admin/settings/template-settings/global-settings.php:543
+msgid "Loading Background Colour"
+msgstr "Фон для загружаемого изображения"
+
+#: admin/settings/template-settings/global-settings.php:540
+msgid "SPINNER"
+msgstr "СПИННЕР"
+
+#: admin/settings/template-settings/global-settings.php:539
+msgid "FADE IN"
+msgstr "ПЛАВНОЕ ПОЯВЛЕНИЕ"
+
+#: admin/settings/template-settings/global-settings.php:533
+msgid "Loading Effect"
+msgstr "Эффект загрузки"
+
+#: admin/settings/template-settings/global-settings.php:526
+msgid "Effect & Style"
+msgstr "Эффекты и стили"
+
+#: admin/settings/template-settings/global-settings.php:515
+msgid "Disables a3 Lazy Load when the MobilePress mobile theme is used"
+msgstr "Отключает a3 Lazy Load при использовании мобильной темы MobilePress"
+
+#: admin/settings/template-settings/global-settings.php:514
+msgid "Disable On MobilePress"
+msgstr "Отключить на MobilePress"
+
+#: admin/admin-interface.php:330
+msgid "Dotted"
+msgstr "Точки"
+
+#: admin/admin-interface.php:329
+msgid "Dashed"
+msgstr "Пунктир"
+
+#: admin/admin-interface.php:328
+msgid "Double"
+msgstr "Двойная линия"
+
+#: admin/admin-interface.php:327
+msgid "Solid"
+msgstr "Сплошная линия"
+
+#: admin/admin-interface.php:317
+msgid "Bold/Italic"
+msgstr "Жирный/Курсив"
+
+#: admin/admin-interface.php:316
+msgid "Bold"
+msgstr "Жирный"
+
+#: admin/admin-interface.php:315
+msgid "Italic"
+msgstr "Курсив"
+
+#: admin/admin-interface.php:314
+msgid "Normal"
+msgstr "Обычный"
+
+#: admin/admin-interface.php:313
+msgid "Thin/Italic"
+msgstr "Тонкий/Курсив"
+
+#: admin/admin-interface.php:312
+msgid "Thin"
+msgstr "Тонкий"
+
+#: admin/settings/template-settings/global-settings.php:89
+#: admin/admin-interface.php:291
+msgid "Settings successfully reseted."
+msgstr "Настройки успешно обновлены."
+
+#: admin/settings/template-settings/global-settings.php:88
+#: admin/admin-interface.php:283
+msgid "Error: Settings can not save."
+msgstr "Невозможно сохранить настройки."
+
+#: admin/settings/template-settings/global-settings.php:87
+#: admin/admin-interface.php:275
+msgid "Settings successfully saved."
+msgstr "Настройки успешно сохранены."
+
+#: admin/admin-interface.php:211
+msgid "Great! You have the latest version installed."
+msgstr "Отлично! У вас установлена последняя версия."
+
+#: admin/settings/template-settings/global-settings.php:228
+#: admin/settings/template-settings/global-settings.php:246
+#: admin/settings/template-settings/global-settings.php:266
+#: admin/settings/template-settings/global-settings.php:281
+#: admin/settings/template-settings/global-settings.php:291
+#: admin/settings/template-settings/global-settings.php:301
+#: admin/settings/template-settings/global-settings.php:311
+#: admin/settings/template-settings/global-settings.php:322
+#: admin/settings/template-settings/global-settings.php:369
+#: admin/settings/template-settings/global-settings.php:384
+#: admin/settings/template-settings/global-settings.php:394
+#: admin/settings/template-settings/global-settings.php:405
+#: admin/settings/template-settings/global-settings.php:468
+#: admin/settings/template-settings/global-settings.php:511
+#: admin/settings/template-settings/global-settings.php:522
+#: admin/settings/template-settings/global-settings.php:581
+#: admin/admin-interface.php:1864 admin/admin-interface.php:1920
+#: admin/admin-interface.php:2177 admin/admin-interface.php:2277
+#: admin/admin-interface.php:2457 admin/admin-interface.php:2547
+#: admin/admin-interface.php:2576 admin/admin-interface.php:3219
+msgid "OFF"
+msgstr "ВЫКЛ"
+
+#: admin/settings/template-settings/global-settings.php:227
+#: admin/settings/template-settings/global-settings.php:245
+#: admin/settings/template-settings/global-settings.php:265
+#: admin/settings/template-settings/global-settings.php:280
+#: admin/settings/template-settings/global-settings.php:290
+#: admin/settings/template-settings/global-settings.php:300
+#: admin/settings/template-settings/global-settings.php:310
+#: admin/settings/template-settings/global-settings.php:321
+#: admin/settings/template-settings/global-settings.php:368
+#: admin/settings/template-settings/global-settings.php:383
+#: admin/settings/template-settings/global-settings.php:393
+#: admin/settings/template-settings/global-settings.php:404
+#: admin/settings/template-settings/global-settings.php:467
+#: admin/settings/template-settings/global-settings.php:510
+#: admin/settings/template-settings/global-settings.php:521
+#: admin/settings/template-settings/global-settings.php:580
+#: admin/admin-interface.php:1863 admin/admin-interface.php:1919
+#: admin/admin-interface.php:2176 admin/admin-interface.php:2276
+#: admin/admin-interface.php:2456 admin/admin-interface.php:2546
+#: admin/admin-interface.php:2575 admin/admin-interface.php:3218
+msgid "ON"
+msgstr "ВКЛ"
+
+#: admin/admin-interface.php:334
+msgid "Outset"
+msgstr "Снаружи"
+
+#: admin/admin-interface.php:333
+msgid "Inset"
+msgstr "Внутри"
+
+#: admin/admin-interface.php:1869
+msgid "Google Fonts API"
+msgstr "Google Fonts API"
+
+#: admin/admin-interface.php:1902
+msgid "Google Fonts API Key"
+msgstr "Ключ Google Fonts API"
+
+#: admin/admin-interface.php:2949 admin/admin-interface.php:3168
+msgid "Bottom Left Corner"
+msgstr "Нижний левый угол"
+
+#: admin/admin-interface.php:2929 admin/admin-interface.php:3148
+msgid "Bottom Right Corner"
+msgstr "Нижний правый угол"
+
+#: admin/admin-interface.php:2909 admin/admin-interface.php:3128
+msgid "Top Right Corner"
+msgstr "Верхний правый угол"
+
+#: admin/admin-interface.php:2889 admin/admin-interface.php:3108
+msgid "Top Left Corner"
+msgstr "Верхний левый угол"
+
+#: admin/admin-interface.php:2879 admin/admin-interface.php:3095
+msgid "Square"
+msgstr "Квадратный"
+
+#: admin/admin-interface.php:2878 admin/admin-interface.php:3094
+msgid "Rounded"
+msgstr "Скруглённый"
+
+#: admin/admin-interface.php:2870 admin/admin-interface.php:3037
+msgid "0px = No Border"
+msgstr "0px = Без границы "
+
+#: admin/admin-interface.php:2615
+msgid "Hard Crop"
+msgstr "Жёсткая обрезка"
+
+#: admin/admin-interface.php:2613
+msgid "Height"
+msgstr "Высота"
+
+#: admin/admin-interface.php:2611
+msgid "Width"
+msgstr "Ширина"
+
+#: admin/admin-interface.php:2719
+msgid "-- Google Fonts --"
+msgstr "-- Шрифты Google --"
+
+#: admin/admin-interface.php:2708
+msgid "-- Default Fonts --"
+msgstr "-- Шрифты по умолчанию --"
+
+#. Plugin Name of the plugin
+#: admin/admin-pages/admin-settings-page.php:66
+#: admin/admin-pages/admin-settings-page.php:67
+msgid "a3 Lazy Load"
+msgstr "a3 Lazy Load"
+
+#: admin/admin-interface.php:3627
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/admin-interface.php:3307
+msgid "OUTER"
+msgstr "СНАРУЖИ"
+
+#: admin/admin-interface.php:3306
+msgid "INNER"
+msgstr "ВНУТРИ"
+
+#: admin/admin-interface.php:3288
+msgid "Spread Size"
+msgstr "Размер рассеивания"
+
+#: admin/admin-interface.php:3270
+msgid "Blur Distance"
+msgstr "Размер размытия"
+
+#: admin/admin-interface.php:3252
+msgid "Vertical Shadow"
+msgstr "Вертикальная тень"
+
+#: admin/admin-interface.php:3234
+msgid "Horizontal Shadow"
+msgstr "Горизонтальная тень"
+
+#: admin/admin-ui.php:216 admin/admin-ui.php:219
+msgid "Premium Version Enhanced Features"
+msgstr "Улучшенный функционал Премиум-версии"
+
+#: admin/admin-interface.php:3628
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+#: admin/includes/uploader/class-uploader.php:107
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/includes/uploader/class-uploader.php:127
+msgid "View File"
+msgstr "Просмотр файла"
+
+#: admin/admin-ui.php:375
+msgid "Pro Version"
+msgstr "Версия Pro"
+
+#: admin/settings/template-settings/global-settings.php:304
+msgid "Gravatars"
+msgstr "Граватары"
+
+#: admin/settings/template-settings/global-settings.php:294
+msgid "Post Thumbnails"
+msgstr "Миниатюры записей"
+
+#: admin/settings/template-settings/global-settings.php:284
+msgid "Images in Widgets"
+msgstr "Изображения в виджетах"
+
+#: admin/settings/template-settings/global-settings.php:274
+msgid "Images in Content"
+msgstr "Изображения в контенте"
+
+#: admin/settings/template-settings/global-settings.php:257
+msgid "Enable Lazy Load for Images"
+msgstr "Включить ленивую загрузку для изображений"
+
+#: admin/settings/template-settings/global-settings.php:250
+msgid "Lazy Load Images"
+msgstr "Ленивая загрузка изображений"
+
+#: admin/settings/template-settings/global-settings.php:238
+msgid "Enable Lazy Load"
+msgstr "Включить ленивую загрузку"
+
+#: admin/settings/template-settings/global-settings.php:232
+msgid "Lazy Load Activation"
+msgstr "Активация ленивой загрузки"
+
+#: admin/settings/template-settings/global-settings.php:314
+#: admin/settings/template-settings/global-settings.php:397
+msgid "Noscript Support"
+msgstr "Поддержка Noscript"
+
+#: admin/settings/template-settings/global-settings.php:316
+msgid "Turn ON to activate Noscript tag as a fallback to show images for users who have JavaScript disabled in their browser."
+msgstr "Нажмите ВКЛ и активируйте тег Noscript, чтобы пользователи с отключённым JavaScript могли видеть изображения."
+
+#: admin/settings/template-settings/global-settings.php:331
+msgid "Skip Images Classes"
+msgstr "Пропускать изображения по классам"
+
+#: admin/settings/template-settings/global-settings.php:387
+msgid "In Widgets"
+msgstr "В виджетах"
+
+#: admin/settings/template-settings/global-settings.php:377
+msgid "In Content"
+msgstr "В контенте"
+
+#: admin/settings/template-settings/global-settings.php:414
+msgid "Skip Videos Classes"
+msgstr "Пропускать видео с классами"
+
+#: admin/settings/template-settings/global-settings.php:503
+msgid "Disable On WPTouch"
+msgstr "Отключить на WPTouch"
+
+#: admin/settings/template-settings/global-settings.php:496
+msgid "WordPress Mobile Template Plugins"
+msgstr "Плагины мобильных шаблонов WordPress"
+
+#: admin/settings/template-settings/global-settings.php:492
+msgid "FOOTER"
+msgstr "FOOTER"
+
+#: admin/settings/template-settings/global-settings.php:485
+msgid "Your theme must have the wp_footer() function if you select FOOTER load."
+msgstr "Ваша тема должна содержать функцию wp_footer(), если вы выберите опцию FOOTER."
+
+#: admin/settings/template-settings/global-settings.php:504
+msgid "Disables a3 Lazy Load when the WPTouch mobile theme is used"
+msgstr "Отключение a3 Lazy Load при использовании мобильной темы WPTouch"
+
+#: admin/settings/template-settings/global-settings.php:484
+msgid "Theme Loader Function"
+msgstr "Функция загрузки темы"
+
+#: admin/settings/template-settings/global-settings.php:477
+msgid "Script Load Optimization"
+msgstr "Оптимизация скрипта загрузки"
+
+#: admin/settings/template-settings/global-settings.php:360
+msgid "Video and iframes"
+msgstr "Видео и iframe"
+
+#: admin/settings/template-settings/global-settings.php:353
+msgid "Lazy Load Videos and iframes"
+msgstr "Ленивая загрузка для видео и iframe"
+
+#: admin/settings/template-settings/global-settings.php:361
+msgid "Turn ON to activate Lazy Load for <a href=\"%s\" target=\"_blank\">WordPress Embeds</a>, <a href=\"%s\" target=\"_blank\">HTML5 Video</a> and content loaded by iframe from all sources. Note: WordPress Shortcode is not supported."
+msgstr "Нажмите ВКЛ и активируйте ленивую загрузку для <a href=\"%s\" target=\"_blank\">WordPress Embeds</a>, <a href=\"%s\" target=\"_blank\">HTML5 Video</a> и содержимого iframe слюбых источников. Примечание: Шорткоды WordPress не поддерживаются."
+
+#: admin/settings/template-settings/global-settings.php:155
+#: admin/tabs/template-settings/global-settings-tab.php:82
+msgid "Global Settings"
+msgstr "Глобальные настройки"
+
+#: admin/admin-ui.php:425 admin/admin-ui.php:444
+msgid "You should check now to see if have any new version is available"
+msgstr "Выберите сейчас, чтобы проверить, доступна ли новая версия"
+
+#: admin/admin-ui.php:427
+msgid "Connection Failure! Please try again. If this issue persists please create a support request on the plugin <a href=\"%s\" target=\"_blank\">a3rev support forum</a>."
+msgstr "Соединений не удалось! Попробуйте ещё раз. Если проблема повторяется, отправьте запрос в поддержку плагина на <a href=\"%s\" target=\"_blank\">Форуме поддержки a3rev</a>."
+
+#: admin/settings/template-settings/global-settings.php:219
+msgid "On deletion (not deactivate) the plugin will completely remove all tables and data it created, leaving no trace it was ever here."
+msgstr "При удалении (не деактивации!) плагин удалит все созданные им таблицы и данные, не оставив о себе и следа."
+
+#: admin/settings/template-settings/global-settings.php:218
+msgid "Clean up on Deletion"
+msgstr "Прибраться за собой при удалении"
+
+#: admin/settings/template-settings/global-settings.php:214
+msgid "House Keeping"
+msgstr "Чистота и порядок"
+
+#: admin/admin-ui.php:372
+msgid "Advanced Settings - Upgrade to the <a href=\"%s\" target=\"_blank\">%s License</a> to activate these settings."
+msgstr "Расширенные настройки - обновитесь до <a href=\"%s\" target=\"_blank\">лицензии %s</a>, чтобы активировать эти настройки."
+
+#: admin/admin-ui.php:224
+msgid "Get Premium Features and Support"
+msgstr "Получить Премиум функции и поддержку"
+
+#: admin/admin-interface.php:3036
+msgid "Preview your customized border styles settings"
+msgstr "Предпросмотр ваших настроек стилей границ"
+
+#: admin/admin-interface.php:2869 admin/admin-interface.php:3103
+msgid "Preview your customized border settings"
+msgstr "Предпросмотр ваших настроек границ"
+
+#: admin/admin-interface.php:2760
+msgid "Preview your customized typography settings"
+msgstr "Предпросмотр ваших настроек типографики"
+
+#: admin/admin-interface.php:1906 admin/admin-interface.php:1962
+msgid "Please enter a valid Google API Key."
+msgstr "Укажите действующий ключ Google API."
+
+#: admin/admin-interface.php:1905 admin/admin-interface.php:1961
+msgid "Your Google API Key is valid and automatic font updates are enabled."
+msgstr "Ваш ключ Google API указан верно и автоматические обновления шрифтов включены."
+
+#: admin/admin-interface.php:331
+msgid "Groove"
+msgstr "Вдавленность"
+
+#: admin/admin-interface.php:332
+msgid "Ridge"
+msgstr "Выпуклость"
+
+#: admin/admin-ui.php:220
+msgid "WooCommerce Dynamic Gallery Premium"
+msgstr "WooCommerce Dynamic Gallery Premium"
+
+#: admin/admin-ui.php:221
+msgid "Quick Video showing the main (not all) enhanced features that are built into the WooCommerce Dynamic Gallery Premium version"
+msgstr "Короткое видео, демонстрирующее основные (не все) функции, встроенные в WooCommerce Dynamic Gallery Premium"
+
+#: admin/admin-interface.php:1881
+msgid "ON to connect to Google Fonts API and have auto font updates direct from Google."
+msgstr "Включите, чтобы подключиться к Google Fonts API и автоматически обновлять шрифты прямо с Google."
+
+#: admin/admin-ui.php:435
+msgid "There is a new version <span class=\"a3rev-ui-new-plugin-version\">%s</span> available, <a href=\"%s\" target=\"_blank\">update now</a> or download direct from <a href=\"%s\" target=\"_blank\">My Account</a> on a3rev.com"
+msgstr "Доступна новая версия <span class=\"a3rev-ui-new-plugin-version\">%s</span>, <a href=\"%s\" target=\"_blank\">обновитесь сейчас</a> или скачайте её с <a href=\"%s\" target=\"_blank\">вашего аккаунта</a> на a3rev.com"
+
+#: admin/admin-ui.php:222
+msgid "Developer Support and Premium Features"
+msgstr "Поддержка от разработчика и премиум функции"
+
+#: admin/admin-interface.php:1885
+msgid "Enter your existing Google Fonts API Key below. Don't have a key? Visit <a href='%s' target='_blank'>Google Developer API</a> to create a key"
+msgstr "Введите ваш существующий ключ Google Fonts API в поле ниже. Нет ключа? Перейдите на <a href='%s' target='_blank'>Google Developer API</a>, чтобы создать ключ"
+
+#: admin/settings/template-settings/global-settings.php:399
+msgid "Turn ON to activate Noscript tag as a fallback to show WordPress Embeds, HTML 5 Video and iframe loaded content for users who have JavaScript disabled in their browser."
+msgstr "Выберите ВКЛ, чтобы активировать тег Noscript для альтернативного варианта показа WordPress Embeds, HTML 5 Video и контента iframe для пользователей с отключенным JavaScript."
+
+#: admin/admin-interface.php:2195
+msgid "ON and each admin panel setting box OPEN | CLOSED position are saved each time changes are SAVED."
+msgstr "Включите и каждый блок настроек при разворачивании/сворачивании будет сохранять указанные в нём настройки."
+
+#: admin/admin-interface.php:3325
+msgid "Preview your customized box shadow settings"
+msgstr "Предпросмотр ваших настроек тени блоков"
+
+#: admin/settings/template-settings/global-settings.php:207
+msgid "By default each admin panel will open with all Setting Boxes in the CLOSED position."
+msgstr "По умолчанию панель управления будет открываться с блоками настроек в закрытом (свёрнутом) состоянии."
+
+#: admin/settings/template-settings/global-settings.php:491
+msgid "HEADER"
+msgstr "ШАПКА"
